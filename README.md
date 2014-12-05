@@ -4,7 +4,7 @@ tonal-starfield-simulation
 Visual simulation for EOH 2015. Based off of [Kinect 4 Unreal](http://opaquemultimedia.com/index.html?pages/k4u.html&k4u).
 
 ## Development
-  1. Download [Unreal Engine](https://www.unrealengine.com/)
+  1. Download [Unreal Engine](https://www.unrealengine.com/) (free for students with the [GitHub Student Developer Pack](https://education.github.com/pack/))
     - Version 4.5.1 (Splash Screen -> Library -> Engines -> Add button -> Select 4.5.1 -> Install)
   2. Clone / fork project
   3. Open `.uproject` file in Unreal Engine

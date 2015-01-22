@@ -10,3 +10,7 @@ Visual simulation for EOH 2015. Based off of [Kinect 4 Unreal](http://opaquemult
   - [Kinect for Windows v2](http://www.microsoft.com/en-us/kinectforwindows/) (hardware)
   - [Kinect for Windows SDK 2.0](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
   - [Visual Studio Express 2013](http://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx)
+
+## Math
+
+  - [Converting from spherical coordinates](http://en.wikipedia.org/wiki/Sphere#Equations_in)

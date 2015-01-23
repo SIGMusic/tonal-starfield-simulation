@@ -14,3 +14,4 @@ Visual simulation for EOH 2015. Based off of [Kinect 4 Unreal](http://opaquemult
 ## Math
 
   - [Converting from spherical coordinates](http://en.wikipedia.org/wiki/Sphere#Equations_in)
+  - [Picking random points on the surface of a sphere](http://mathworld.wolfram.com/SpherePointPicking.html)

@@ -196,6 +196,7 @@ FakesAssemblies/
 *.opt
 
 #Unreal
+**/Binaries/*
 Saved/*
 Intermediate/*
 Build*/

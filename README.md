@@ -21,6 +21,7 @@ Visual simulation for EOH 2015
 
  - [Kinect 4 Unreal](http://opaquemultimedia.com/index.html?pages/k4u.html&k4u)
  - [JSON Query](https://forums.unrealengine.com/showthread.php?7045-PLUGIN-JSON-Query)
+ - [UE4-OSC](https://github.com/monsieurgustav/UE4-OSC)
 
 ## Math
 

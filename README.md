@@ -1,7 +1,13 @@
 tonal-starfield-simulation
 ==========================
 
-Visual simulation for EOH 2015. Based off of [Kinect 4 Unreal](http://opaquemultimedia.com/index.html?pages/k4u.html&k4u).
+Visual simulation for EOH 2015
+
+## Content
+
+ - [Development](#development)
+ - [Libraries](#libraries)
+ - [Math](#math)
 
 ## Development
 
@@ -10,6 +16,11 @@ Visual simulation for EOH 2015. Based off of [Kinect 4 Unreal](http://opaquemult
   - [Kinect for Windows v2](http://www.microsoft.com/en-us/kinectforwindows/) (hardware)
   - [Kinect for Windows SDK 2.0](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
   - [Visual Studio Express 2013](http://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx)
+
+## Libraries
+
+ - [Kinect 4 Unreal](http://opaquemultimedia.com/index.html?pages/k4u.html&k4u)
+ - [JSON Query](https://forums.unrealengine.com/showthread.php?7045-PLUGIN-JSON-Query)
 
 ## Math
 

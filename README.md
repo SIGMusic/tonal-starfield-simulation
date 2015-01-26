@@ -17,6 +17,9 @@ Visual simulation for EOH 2015
   - [Kinect for Windows SDK 2.0](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
   - [Visual Studio Express 2013](http://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx)
 
+#### Configuration
+  - Go to Edit > Project Settings > Plugins > OSC and change the port number (project default is 86625)
+  
 ## Libraries
 
  - [Kinect 4 Unreal](http://opaquemultimedia.com/index.html?pages/k4u.html&k4u)
